@@ -2,3 +2,6 @@
 *.swp
 dist/*
 django_crowdsourcing.egg-info/*
+venv/*
+.idea
+dev.db

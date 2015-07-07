@@ -4,13 +4,13 @@
 # $ pip install -r crowdsourcing_requirements.txt
 
 # Python Image Library for processing image answers.
-PIL>=1.1.6
+Pillow>=1.1.6
 
 # for image thumbnailing
 sorl-thumbnail==3.2.5
 
 # for ordering inlines
--e git://github.com/jpwatts/django-positions.git#egg=django-positions
+django-positions
 
 # For geocoding addresses and address lookups
 geopy
